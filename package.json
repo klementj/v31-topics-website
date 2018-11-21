@@ -1,7 +1,7 @@
 {
   "name": "v31-topics-website",
   "version": "1.0.0",
-  "description": "",
+  "description": "Theme template based on foundations blog template. Website to inform about the courses topics",
   "main": "index.js",
   "repository": {
     "type": "git",
