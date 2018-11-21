@@ -16,7 +16,9 @@
   },
   "author": "kljo@aspit.dk",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "foundation-sites": "^6.5.1"
+  },
   "devDependencies": {
     "@babel/core": "^7.1.5",
     "@babel/preset-env": "^7.1.5",
